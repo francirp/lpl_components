@@ -4,6 +4,7 @@ const docgen = require('react-docgen');
 module.exports = {
   title: 'LPL Components',
   updateWebpackConfig: webpackConfig => {
+    webpackConfig.entry.push(path.join(__dirname, 'src/css/master.scss'));
     webpackConfig.module.loaders.push(
       {
         test: /(\.js$|\.jsx$)/,
