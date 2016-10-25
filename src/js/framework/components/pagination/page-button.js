@@ -19,7 +19,6 @@ export default class PageButton extends Component {
       'isLight',
       'isDark',
       'isBlack',
-      'isLink',
     ]),
     target: PropTypes.string,
   };

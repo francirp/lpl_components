@@ -18,8 +18,7 @@ export default class Message extends Component {
       'isWhite',
       'isLight',
       'isDark',
-      'isBlack',
-      'isLink',
+      'isBlack'
     ]),
   };
 

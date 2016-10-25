@@ -28,7 +28,7 @@
               <Content>
                 <Title>Middle tile</Title>
                 <Subtitle>With an image</Subtitle>
-                <Image size="is4By3" src="http://placehold.it/640x480"/>
+                <Image size="is16X16" src="http://placehold.it/640x480"/>
               </Content>
             </Tile>
           </Tile>

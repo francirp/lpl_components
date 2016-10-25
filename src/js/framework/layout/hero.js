@@ -25,7 +25,6 @@ export default class Hero extends Component {
       'isLight',
       'isDark',
       'isBlack',
-      'isLink',
     ]),
   };
 

@@ -30,7 +30,7 @@ export default class Subtitle extends Component {
   render() {
     return (
       <p {...this.props} className={this.createClassName()}>
-        {this.props.children}
+        Ryan
       </p>
     );
   }

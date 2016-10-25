@@ -10,7 +10,7 @@
         type="card"
         headerContent="Header Content"
         footerContent={<div style={{ padding: '20px'}} >footercontent</div>}
-        isActive={state.isOpen}
+        isActive={false}
         onCloseRequest={() => setState({ isOpen: false })}
       >
         <Content>

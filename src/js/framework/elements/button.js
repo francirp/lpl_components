@@ -25,7 +25,6 @@ export default class Button extends Component {
       'isLight',
       'isDark',
       'isBlack',
-      'isLink',
     ]),
     buttonStyle: PropTypes.oneOf([
       'isOutlined',

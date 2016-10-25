@@ -18,7 +18,6 @@ export default class Addons extends Component {
       'isLight',
       'isDark',
       'isBlack',
-      'isLink',
     ]),
     help: PropTypes.shape({
       text: PropTypes.string,
